@@ -9,7 +9,7 @@ Git clone & Please run Docker file (attached )
 Run below commands
     docker build -t test .
     check docker images
-    docker rin -d -p 8080:8080 test
+    docker run -d -p 8080:8080 test
 
 Step 3:
  verify URL below
