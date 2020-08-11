@@ -21,5 +21,5 @@ Run below commands
 Step 3:
  verify URL below
  hhttp://localhost:8080/RakeshTechTest/ping  -- output should be OK
- http://localhost:8080/RakeshTechTest/      -- -- output should be Success
+ http://localhost:8080/RakeshTechTest/    -- -- output should be Success
     
