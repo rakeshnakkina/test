@@ -13,6 +13,6 @@ Run below commands
 
 Step 3:
  verify URL below
- http://localhost:8080/ping  -- output should be OK
- http://localhost:8080/      -- -- output should be Success
+ hhttp://localhost:8080/RakeshTechTest/ping  -- output should be OK
+ http://localhost:8080/RakeshTechTest/      -- -- output should be Success
     
