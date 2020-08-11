@@ -1,8 +1,8 @@
 # test
 
 Step 1:
-i run maven install from my end and attached war file
-RakeshTechTest.war
+I have run maven commands from my end to create war file & attached war file
+WAR file name : RakeshTechTest.war
 
 Step 2:
 Git clone & Please run Docker file (attached )
